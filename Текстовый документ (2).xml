@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHuman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Human>
+    <Name>Maria </Name>
+    <Age>22</Age>
+    <Strana> Russia</Strana>
+  </Human>
+  <Human>
+    <Name>Sofia </Name>
+    <Age>20</Age>
+    <Strana> USA</Strana>
+  </Human>
+</ArrayOfHuman>
